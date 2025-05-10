@@ -1,28 +1,44 @@
-Small Business Performance Analysis – Ghana 🇬🇭
+📊 Ghana Small Business Analysis – Machine Learning & AI Project.
 
-This project is a Machine Learning & AI project where we explored the performance of 200 small businesses in Ghana.
+A real-world data analysis project that explores the performance of 200 small businesses in Ghana. This assignment focuses on cleaning data, creating insightful features, applying transformations, and visualizing trends to guide smarter decisions — just like a real data analyst would do.
 
-🔍 Goals
-- Handle missing data (imputation)
-- Create new features (e.g., profit, profit per employee)
-- Scale & normalize numerical features
-- Encode categorical variables
-- Visualize insights from the data
+🚀 What This Project Covers
+- ✅ Handling missing values with median imputation
+- 📐 Creating new features like `profit` and `profit_per_employee`
+- ⚖️ Scaling numerical data using StandardScaler
+- 🧠 Encoding categorical data for ML-readiness
+- 📊 Drawing insights from visualizations (e.g., revenue vs. profit)
 
- 📊 Tools Used
-- Python (Pandas, Seaborn, Scikit-learn)
-- Google Colab
 
-📎 Files
-- `analysis.ipynb` – Full notebook with all code and comments
-- `project_report.docx` – Written summary of findings
-- `ML_AI_Cheat_Sheet.docx` – Code guide for beginners
 
-💡 Key Insights
-- High revenue ≠ high profit
-- Customer satisfaction varies across business types
-- More advertising doesn’t always lead to better margins
+ 🧰 Tools Used
+- Python (pandas, seaborn, scikit-learn)
+- Google Colab (for development)
+- PowerPoint (for final presentation)
+- Git & GitHub (for version control)
 
-🙋🏽‍♂️ Author
-Patrick Ayeh Ayisi – Data science learner & team lead
+
+
+## 📂 Project Files
+| File | Description |
+|------|-------------|
+| `analysis.ipynb` | The full Python code notebook |
+| `presentation.pptx` | Slide deck used for the team presentation |
+| `ML_AI_Cheat_Sheet.docx` | Beginner-friendly code guide |
+| `project_report.docx` | Detailed report summary |
+| `small_business_ghana.csv` | The dataset (for practice purposes only) |
+
+
+ 💡 Key Insights
+- High revenue doesn't always mean high profit
+- Retail and service businesses showed better customer satisfaction
+- More advertising didn't guarantee higher profit margins
+
+
+ 👤 Author
+**Patrick Ayeh Ayisi**
+Aspiring Data Scientist | Mathematics Educator | Team Leader  
+📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/patrickayehayisi)
+
+
 

@@ -38,7 +38,7 @@ A real-world data analysis project that explores the performance of 200 small bu
  👤 Author
 **Patrick Ayeh Ayisi**
 Aspiring Data Scientist | Mathematics Educator | Team Leader  
-📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/patrickayehayisi)
-
+📬 [Connect with me on LinkedIn]
+(https://www.linkedin.com/in/patrick-ayeh-ayisi)
 
 

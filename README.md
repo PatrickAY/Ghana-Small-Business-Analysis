@@ -1,13 +1,13 @@
 📊 Ghana Small Business Analysis – Machine Learning & AI Project.
 
-A real-world data analysis project that explores the performance of 200 small businesses in Ghana. This project focuses on cleaning data, creating insightful features, applying transformations, and visualizing trends to guide smarter decisions — just like a real data analyst would do.
+A real-world data analysis project that explores the performance of 200 small businesses in Ghana. This project focuses on cleaning data, creating insightful features, applying transformations, and visualising trends to guide smarter decisions, just like a real data analyst would do.
 
 🚀 What This Project Covers
 - ✅ Handling missing values with median imputation
 - 📐 Creating new features like `profit` and `profit_per_employee`
 - ⚖️ Scaling numerical data using StandardScaler
 - 🧠 Encoding categorical data for ML-readiness
-- 📊 Drawing insights from visualizations (e.g., revenue vs. profit)
+- 📊 Drawing insights from visualisations (e.g., revenue vs. profit)
 
 
 
